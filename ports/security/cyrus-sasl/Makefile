@@ -38,13 +38,13 @@
 # Package Information
 PACKAGE_NAME				= Cyrus SASL
 PACKAGE_TARNAME				= cyrus-sasl
-PACKAGE_VERSION				= 2.1.23
+PACKAGE_VERSION				= 2.1.26
 PACKAGE_DIR				= $(PACKAGE_TARNAME)-$(PACKAGE_VERSION)
 PACKAGE_FILEEXE				= tar.gz
 PACKAGE_FILE				= $(PACKAGE_DIR).$(PACKAGE_FILEEXE)
 PACKAGE_MD5				= $(PACKAGE_FILE).md5
-PACKAGE_URL				= http://ftp.andrew.cmu.edu/pub/cyrus-mail/$(PACKAGE_FILE)
-PACKAGE_WEBSITE				= http://asg.web.cmu.edu/sasl/
+PACKAGE_URL				= http://cyrusimap.org/releases/$(PACKAGE_FILE)
+PACKAGE_WEBSITE				= http://cyrusimap.org/releases/
 PACKAGE_LICENSE_FILE			= build-aux/COPYING
 
 SRCROOTDIR = ../../..
