@@ -624,8 +624,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		404614FA19A404CA00FF865C /* openssl-1.0.0n.tar.gz.md5 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "openssl-1.0.0n.tar.gz.md5"; sourceTree = "<group>"; };
 		A051131F127769BB00DE46C4 /* configure-wrapper.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "configure-wrapper.sh"; sourceTree = "<group>"; };
-		A0511320127769BB00DE46C4 /* openssl-1.0.0a.tar.gz.md5 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "openssl-1.0.0a.tar.gz.md5"; sourceTree = "<group>"; };
 		A0511321127769BB00DE46C4 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 8; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; tabWidth = 8; };
 		A051132612776F1400DE46C4 /* CHANGES */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CHANGES; sourceTree = "<group>"; };
 		A051132712776F1400DE46C4 /* CHANGES.SSLeay */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CHANGES.SSLeay; sourceTree = "<group>"; };
@@ -2898,9 +2898,9 @@
 		A051131E127769BB00DE46C4 /* build-aux */ = {
 			isa = PBXGroup;
 			children = (
-				A0511D561277836600DE46C4 /* opensslconf.h */,
 				A051131F127769BB00DE46C4 /* configure-wrapper.sh */,
-				A0511320127769BB00DE46C4 /* openssl-1.0.0a.tar.gz.md5 */,
+				404614FA19A404CA00FF865C /* openssl-1.0.0n.tar.gz.md5 */,
+				A0511D561277836600DE46C4 /* opensslconf.h */,
 			);
 			path = "build-aux";
 			sourceTree = "<group>";
