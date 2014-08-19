@@ -1,5 +1,5 @@
 *** openssl/crypto/ui/ui_openssl.c	2009-10-04 08:43:21.000000000 -0800
---- openssl-1.0.0a-patched/crypto/ui/ui_openssl.c	2010-10-27 10:37:46.000000000 -0800
+--- openssl-1.0.0n-patched/crypto/ui/ui_openssl.c	2010-10-27 10:37:46.000000000 -0800
 ***************
 *** 261,266 ****
 --- 261,269 ----
