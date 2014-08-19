@@ -6906,7 +6906,6 @@
 				GCC_WARN_INHIBIT_ALL_WARNINGS = YES;
 				PRODUCT_NAME = ssl;
 				SKIP_INSTALL = YES;
-				VALID_ARCHS = "i386 armv7s armv7";
 			};
 			name = Debug;
 		};
@@ -6921,14 +6920,12 @@
 				GCC_WARN_INHIBIT_ALL_WARNINGS = YES;
 				PRODUCT_NAME = ssl;
 				SKIP_INSTALL = YES;
-				VALID_ARCHS = "i386 armv7s armv7";
 			};
 			name = Release;
 		};
 		1DEB922308733DC00010E9CD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				"ARCHS[sdk=iphonesimulator*]" = i386;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -6937,8 +6934,6 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_THUMB_SUPPORT = NO;
-				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
@@ -6963,14 +6958,12 @@
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				SDKROOT = iphoneos;
-				VALID_ARCHS = "i386 armv6 armv7";
 			};
 			name = Debug;
 		};
 		1DEB922408733DC00010E9CD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				"ARCHS[sdk=iphonesimulator*]" = i386;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -6978,8 +6971,6 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				GCC_C_LANGUAGE_STANDARD = c99;
-				GCC_THUMB_SUPPORT = NO;
-				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
@@ -7003,7 +6994,6 @@
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				SDKROOT = iphoneos;
-				VALID_ARCHS = "i386 armv6 armv7";
 			};
 			name = Release;
 		};
@@ -7021,7 +7011,6 @@
 				GCC_WARN_INHIBIT_ALL_WARNINGS = YES;
 				PRODUCT_NAME = crypto;
 				SKIP_INSTALL = YES;
-				VALID_ARCHS = "i386 armv7s armv7";
 			};
 			name = Debug;
 		};
@@ -7036,7 +7025,6 @@
 				GCC_WARN_INHIBIT_ALL_WARNINGS = YES;
 				PRODUCT_NAME = crypto;
 				SKIP_INSTALL = YES;
-				VALID_ARCHS = "i386 armv7s armv7";
 			};
 			name = Release;
 		};
