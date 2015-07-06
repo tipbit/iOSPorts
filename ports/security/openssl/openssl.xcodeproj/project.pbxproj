@@ -7013,8 +7013,6 @@
 				GCC_WARN_INHIBIT_ALL_WARNINGS = YES;
 				PRODUCT_NAME = crypto;
 				SKIP_INSTALL = YES;
-				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/**";
-				USE_HEADERMAP = NO;
 			};
 			name = Debug;
 		};
@@ -7029,8 +7027,6 @@
 				GCC_WARN_INHIBIT_ALL_WARNINGS = YES;
 				PRODUCT_NAME = crypto;
 				SKIP_INSTALL = YES;
-				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/**";
-				USE_HEADERMAP = NO;
 			};
 			name = Release;
 		};
