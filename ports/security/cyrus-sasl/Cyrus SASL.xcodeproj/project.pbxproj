@@ -2157,7 +2157,7 @@
 					"cyrus-sasl",
 					../../../include,
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "-ObjC";
 				SDKROOT = iphoneos;
@@ -2194,7 +2194,7 @@
 					"cyrus-sasl",
 					../../../include,
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_LDFLAGS = "-ObjC";
 				SDKROOT = iphoneos;
 				WARNING_CFLAGS = (
